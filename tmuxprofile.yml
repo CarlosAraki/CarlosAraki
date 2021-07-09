@@ -1,0 +1,36 @@
+name: startJob
+root: ~/
+
+
+windows:
+  - status_things:
+      layout: main-horizontal
+      panes:
+        - htop
+        - rm ~/.config/google-chrome/Profile\ 1/History && google-chrome --disable-session-crashed-bubble
+  - code:
+      layout: tiled
+      panes:
+        - code_web_run:
+          - cd /var/www/html/work_inspecoes/
+          - docker-compose down
+          - docker-compose up --build
+        - code_web_git:
+          - cd /var/www/html/work_inspecoes/
+        - code_app_run:
+          - cd /var/www/html/work_inspecoes_app/
+          - ls
+        - code_app_git:
+          - cd /var/www/html/work_inspecoes_app/
+  - creds:
+      layout: tiles
+      panes:
+        - clear:
+          - rm -rf ~/Pictures/**
+          - rm -rf ~/Downloads/**
+          - alsamixer 
+          # - nvim ~/Documents/CRED/remember.md
+        - vpn:
+          - cd ~/Documents/CRED/
+          - sudo openvpn carlos-cesla.ovpn
+
