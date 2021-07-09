@@ -9,7 +9,7 @@
 - 💼 CTO of CESLA  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vin%C3%ADcius-araki-oliveira-7a753a99/)
 - 🖌 I love to Draw [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosva380/)
 - 🥅 2021 Goals: Init more Open Source projects [![Project](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/CarlosAraki/quemvota)
-- ⚡ Fun fact: the best IDE is [https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/CarlosAraki/MyNvimConfig)
+- ⚡ Fun fact: the best IDE is [![IDE](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/CarlosAraki/MyNvimConfig)
 
 ### Spotify Playing 🎧
 
