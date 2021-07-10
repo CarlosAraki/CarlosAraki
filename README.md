@@ -15,6 +15,13 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12167510369)
 
+### About My Git Status
+
+![CarlosAraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAraki&show_icons=true&hide=stars,contribs&count_private=true&&theme=cobalt)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAraki&layout=compact&langs_count=13&theme=cobalt)](https://github.com/CarlosAraki)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
