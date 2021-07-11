@@ -17,10 +17,47 @@
 
 ### About My Git Status
 
-![CarlosAraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAraki&show_icons=true&hide=stars,contribs&count_private=true&&theme=cobalt)
+![CarlosAraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAraki&show_icons=true&hide=stars,contribs&count_private=true&&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAraki&layout=compact&langs_count=13&theme=cobalt)](https://github.com/CarlosAraki)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAraki&layout=compact&langs_count=13&theme=tokyonight)](https://github.com/CarlosAraki)
+
+### Favorites Repositories  - Each one has a unique love story 🥰 
+
+
+<a href="https://github.com/CarlosAraki/objectIdentifierViaCascade">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=objectIdentifierViaCascade&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/PiSound">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=PiSound&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/armProjects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=armProjects&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/ControlLyapunovWorkMatlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=ControlLyapunovWorkMatlab&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/VHDLLabs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=VHDLLabs&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/reactAppProff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=reactAppProff&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/TLearningAlgorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=TLearningAlgorithm&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/blogDjango">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=blogDjango&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/MyNvimConfig">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=MyNvimConfig&theme=tokyonight&langs_count=13" />
+</a>
+<a href="https://github.com/CarlosAraki/scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=scripts&theme=tokyonight&langs_count=13" />
+</a>
+
+
+
 
 ### Languages and Tools:
 
