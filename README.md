@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/CESLA-4.0%20Industry-blue)](https://cesla.ind.br)
 
-## I'm a just a curious boy 🔭 Chasing the limit of developer human knowledge 🕵🏻 !!!
+## I'm a just a curious boy 🔭 Chasing the limit of developer human knowledge !!!
 
 ### About me 👀
 - 🤖 Degree in Control Engineering at Unicamp 
