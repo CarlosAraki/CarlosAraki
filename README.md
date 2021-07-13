@@ -31,6 +31,9 @@
 <a href="https://github.com/CarlosAraki/PiSound">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=PiSound&theme=tokyonight&langs_count=13" />
 </a>
+<a href="https://github.com/CarlosAraki/cinematicRobotControl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=cinematicRobotControl&theme=tokyonight&langs_count=13" />
+</a>
 <a href="https://github.com/CarlosAraki/armProjects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=armProjects&theme=tokyonight&langs_count=13" />
 </a>
@@ -45,9 +48,6 @@
 </a>
 <a href="https://github.com/CarlosAraki/TLearningAlgorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=TLearningAlgorithm&theme=tokyonight&langs_count=13" />
-</a>
-<a href="https://github.com/CarlosAraki/blogDjango">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=blogDjango&theme=tokyonight&langs_count=13" />
 </a>
 <a href="https://github.com/CarlosAraki/MyNvimConfig">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=MyNvimConfig&theme=tokyonight&langs_count=13" />
