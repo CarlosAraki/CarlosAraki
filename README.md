@@ -5,7 +5,7 @@
 ## I'm a just a curious boy 🔭 Chasing the limit of developer human knowledge !!!
 
 ### About me 👀
-- 🤖 Degree in Control Engineering at Unicamp the best assessment in Brazil [![Ruf](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ruf.folha.uol.com.br/2019/ranking-de-cursos/engenharia-de-controle-e-automacao/)
+- 🤖 Degree in Control Engineering at Unicamp [![Ruf](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ruf.folha.uol.com.br/2019/ranking-de-cursos/engenharia-de-controle-e-automacao/)
 - 💼 CTO of CESLA  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vin%C3%ADcius-araki-oliveira-7a753a99/)
 - 🖌 I love to Draw [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosva380/)
 - 🥅 2021 Goals: Init more Open Source projects [![Project](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosAraki?tab=repositories)
