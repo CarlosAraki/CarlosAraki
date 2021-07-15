@@ -6,8 +6,8 @@ windows:
   - status_things:
       layout: main-horizontal
       panes:
+        - docker run -ti geertjohan/gomatrix
         - htop
-        - rm ~/.config/google-chrome/Profile\ 1/History && google-chrome --disable-session-crashed-bubble
   - code:
       layout: tiled
       panes:
@@ -28,9 +28,11 @@ windows:
         - clear:
           - rm -rf ~/Pictures/**
           - rm -rf ~/Downloads/**
+          - rm ~/.config/google-chrome/Profile\ 1/History && google-chrome --disable-session-crashed-bubble &
           - alsamixer 
-          # - nvim ~/Documents/CRED/remember.md
         - vpn:
           - cd ~/Documents/CRED/
           - sudo openvpn carlos-cesla.ovpn
+
+
 
