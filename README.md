@@ -19,11 +19,9 @@
 
 ![CarlosAraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAraki&show_icons=true&hide=stars,contribs&count_private=true&&theme=tokyonight)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAraki&layout=compact&langs_count=13&theme=tokyonight)](https://github.com/CarlosAraki)
 
 ### Favorites Repositories  - Each one has a unique love story 🥰 
-
 
 <a href="https://github.com/CarlosAraki/objectIdentifierViaCascade">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=objectIdentifierViaCascade&theme=tokyonight&langs_count=13" />
@@ -55,5 +53,3 @@
 <a href="https://github.com/CarlosAraki/scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=scripts&theme=tokyonight&langs_count=13" />
 </a>
-
-
