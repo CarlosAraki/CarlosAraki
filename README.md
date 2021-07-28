@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=cinematicRobotControl&theme=tokyonight&langs_count=13" />
 </a>
 <a href="https://github.com/CarlosAraki/armProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=armProjects&theme=tokyonight&langs_count=13" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=armProjects&theme=tokyonight&langs_count=15" />
 </a>
 <a href="https://github.com/CarlosAraki/ControlLyapunovWorkMatlab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=ControlLyapunovWorkMatlab&theme=tokyonight&langs_count=13" />
