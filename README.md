@@ -11,10 +11,6 @@
 - 🥅 2021 Goals: Init more Open Source projects [![Project](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosAraki?tab=repositories)
 - ⚡ Fun fact: the best IDE is [![IDE](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/CarlosAraki/MyNvimConfig)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12167510369)
-
 ### About My Git Status
 
 ![CarlosAraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAraki&show_icons=true&hide=stars,contribs&count_private=true&&theme=tokyonight)
