@@ -55,4 +55,3 @@
 <a href="https://github.com/CarlosAraki/nauplio-mba-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=nauplio-mba-2&theme=tokyonight&langs_count=13" />
 </a>
-
