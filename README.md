@@ -5,6 +5,8 @@
 
 ## I'm a just a curious boy 🔭 Chasing the limit of developer human knowledge !!!
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### About me 👀
 - 🤖 Degree in Control Engineering at Unicamp [![Ruf](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ruf.folha.uol.com.br/2019/ranking-de-cursos/engenharia-de-controle-e-automacao/)
 - 💼 IT Head In Rede Mário Gatti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vin%C3%ADcius-araki-oliveira-7a753a99/)
@@ -55,5 +57,3 @@
 <a href="https://github.com/CarlosAraki/nauplio-mba-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAraki&repo=nauplio-mba-2&theme=tokyonight&langs_count=13" />
 </a>
-
-![Snake animation](https://github.com/CarlosAraki/CarlosAraki/blob/output/github-contribution-grid-snake.svg)
